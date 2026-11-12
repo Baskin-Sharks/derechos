@@ -68,7 +68,7 @@ section.main {
     align-items: center;
     justify-content: space-between;
     padding: 0 20px 0 28px;
-    background: __HEADER__;
+    background: __DARK__;
     color: __LIGHT__;
     box-shadow: 0 2px 10px #00000044;
     transition: transform .3s ease;
