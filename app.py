@@ -24,7 +24,8 @@ st.set_page_config(
 
 BG_COLOR = "#F0E7C7"
 CARD_COLOR = "#AD6447"
-TEXT_DARK = "#D4CE6E"
+HEADER_COLOR = "D4CE6E"
+TEXT_DARK = "#3B2A20"
 TEXT_LIGHT = "#FFF8E7"
 
 NUM_CARDS = 7
@@ -67,7 +68,7 @@ section.main {
     align-items: center;
     justify-content: space-between;
     padding: 0 20px 0 28px;
-    background: __DARK__;
+    background: __HEADER__;
     color: __LIGHT__;
     box-shadow: 0 2px 10px #00000044;
     transition: transform .3s ease;
