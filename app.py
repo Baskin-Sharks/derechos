@@ -22,7 +22,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BG_COLOR = "#F0E7C7"
+BG_COLOR = "#BFAE62"
 CARD_COLOR = "#AD6447"
 TEXT_DARK = "#3B2A20"
 TEXT_LIGHT = "#FFF8E7"
